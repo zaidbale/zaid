@@ -1,0 +1,5 @@
+{
+  "scripts" : {
+    "pushtobuild": "npx gh-pages -b master --message '[skip ci] Updates' -d ./"
+  }}
+
